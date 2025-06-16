@@ -1,0 +1,2 @@
+# myMajorProject
+To guide students
