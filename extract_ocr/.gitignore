@@ -1,0 +1,169 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.dart
+
+# IntelliJ related
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/key.properties
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/build/
+ios/DerivedData/
+ios/.dart_tool/
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/build/
+macos/Pods/
+macos/.dart_tool/
+macos/.symlinks/
+macos/Runner.xcworkspace/
+macos/DerivedData/
+
+# Windows related
+windows/Flutter/ephemeral/
+windows/build/
+
+# Linux related
+linux/Flutter/ephemeral/
+linux/build/
+
+# Web related
+web/.dart_tool/
+web/build/
+
+# Exceptions
+!pubspec.yaml
+!pubspec.lock
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.lock
+*.DS_Store
+*.idea/
+
+# Firebase related (if used)
+*.firebase/
+firebase.json
+firebase-debug.log
+
+# Coverage
+coverage/
+
+# Output from flutter test --coverage
+coverage/
+
+# Packages configuration file
+.packages
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.dart
+
+# IntelliJ related
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code related
+.vscode/
+
+# Android related
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+android/local.properties
+android/key.properties
+
+# iOS related
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/build/
+ios/DerivedData/
+ios/.dart_tool/
+
+# macOS related
+macos/Flutter/ephemeral/
+macos/build/
+macos/Pods/
+macos/.dart_tool/
+macos/.symlinks/
+macos/Runner.xcworkspace/
+macos/DerivedData/
+
+# Windows related
+windows/Flutter/ephemeral/
+windows/build/
+
+# Linux related
+linux/Flutter/ephemeral/
+linux/build/
+
+# Web related
+web/.dart_tool/
+web/build/
+
+# Exceptions
+!pubspec.yaml
+!pubspec.lock
+
+# Miscellaneous
+*.log
+*.tmp
+*.swp
+*.lock
+*.DS_Store
+*.idea/
+
+# Firebase related (if used)
+*.firebase/
+firebase.json
+firebase-debug.log
+
+# Coverage
+coverage/
+
+# Output from flutter test --coverage
+coverage/
+
+# Packages configuration file
+.packages
